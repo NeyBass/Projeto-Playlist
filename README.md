@@ -1,5 +1,4 @@
 # Playlist com JavaScript
-# Playlist com JavaScript
 <br>
 
 <h2> Criando um Projeto de Playlist usando JavaScript </h2>
